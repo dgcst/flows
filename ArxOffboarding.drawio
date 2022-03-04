@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:01:43.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="l6Wz8dnA63LeLmSxq1l2" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:09:30.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="SfzI5YJc9T8y527jhLNB" version="16.6.5" type="github">
   <diagram id="Z0VwywWxkh0-yVfvQIWY" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,20 @@
         <mxCell id="H05wWGtZs0aGEvXsyEpA-20" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Collect badge from&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.946;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-22" target="H05wWGtZs0aGEvXsyEpA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H05wWGtZs0aGEvXsyEpA-22" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;[AUTOMATED] Deactivate badges in ServiceNow for&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-29" target="H05wWGtZs0aGEvXsyEpA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-29" value="24 hours after&lt;br&gt;End Date" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="130" height="86.67" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-31" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable all accounts for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="340" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
