@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:03:12.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="veO8encC-B7QTrWcXLtC" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:04:54.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="2iT2VRcXVhSBywKuowWJ" version="16.6.5" type="github">
   <diagram id="Z0VwywWxkh0-yVfvQIWY" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,21 @@
         </mxCell>
         <mxCell id="H05wWGtZs0aGEvXsyEpA-73" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable local accounts for all dev tools (for example: New Relic, OpenShift, Portainer, LinOTP, Jenkins, HashiCorp, Vault, etc.) for &lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="810" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-76" target="H05wWGtZs0aGEvXsyEpA-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-76" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Revoke access and disable user via user management in the Arxus portal for &lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-77" target="H05wWGtZs0aGEvXsyEpA-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-77" value="[Automatic action] Disable all user tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-79" value="END" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="260" y="960" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
