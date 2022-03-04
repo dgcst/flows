@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:29:30.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="n_n0bJQ6oAc8hwen8vPP" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:33:27.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="7D9HupF_HxQkAJRPmahM" version="16.6.5" type="github">
   <diagram id="fsAFGS4oz3nlPsBt68Uk" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,11 +341,39 @@
         <mxCell id="67VnopGBwdh8NgFNt6EZ-1" value="&lt;span&gt;Employee type IS &quot;Cronos Medeworker - Korte Termijn&quot; or&amp;nbsp;&lt;/span&gt;IS &quot;Cronos Medeworker - Lange Termijn&quot;&amp;nbsp;&lt;span&gt;or IS &quot;Externe Medeworker - Contractor Plus&quot;&amp;nbsp;&lt;/span&gt;or IS &quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="1560" width="180" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.657;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="67VnopGBwdh8NgFNt6EZ-5" target="67VnopGBwdh8NgFNt6EZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1690" />
+              <mxPoint x="121" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="67VnopGBwdh8NgFNt6EZ-5" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Send Slack Multi Channel Guest invite to&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1560" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="67VnopGBwdh8NgFNt6EZ-7" target="67VnopGBwdh8NgFNt6EZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="67VnopGBwdh8NgFNt6EZ-7" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot; or IS &quot;Stagiar&quot; or IS &quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="1720" width="178" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="67VnopGBwdh8NgFNt6EZ-10" target="67VnopGBwdh8NgFNt6EZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1600" />
+              <mxPoint x="610" y="1485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-10" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Grant&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;access to the Arxus calendar&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-13" value="&lt;span&gt;Employee type NOT &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="1460" width="178" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="67VnopGBwdh8NgFNt6EZ-15" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Provide Sharepoint access to&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1570" width="160" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
