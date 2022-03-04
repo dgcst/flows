@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T13:09:30.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="SfzI5YJc9T8y527jhLNB" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:03:12.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="veO8encC-B7QTrWcXLtC" version="16.6.5" type="github">
   <diagram id="Z0VwywWxkh0-yVfvQIWY" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,122 @@
         <mxCell id="H05wWGtZs0aGEvXsyEpA-29" value="24 hours after&lt;br&gt;End Date" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="130" height="86.67" as="geometry" />
         </mxCell>
-        <mxCell id="H05wWGtZs0aGEvXsyEpA-31" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable all accounts for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-31" target="H05wWGtZs0aGEvXsyEpA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-31" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable all accounts for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;and remove from AD group&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="11" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-34" target="H05wWGtZs0aGEvXsyEpA-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-34" value="Send email to Cronos SD&lt;br&gt;(Subject:&amp;nbsp;&lt;span&gt;&lt;i&gt;Medewerker&amp;nbsp;&amp;lt;user&amp;gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;span&gt;uit DL&#39;s Arxus verwijderen en wegnemen van het CSP account&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-38" target="H05wWGtZs0aGEvXsyEpA-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-38" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable TeamViewer account for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-40" target="H05wWGtZs0aGEvXsyEpA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-40" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Remove Teams Voice number association (if applicable)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-42" target="H05wWGtZs0aGEvXsyEpA-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-42" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable Nictool account for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-44" target="H05wWGtZs0aGEvXsyEpA-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-44" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Remove&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt; &lt;/span&gt;from &quot;Arxus Engineers&quot; WhatsApp group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-46" target="H05wWGtZs0aGEvXsyEpA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-46" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable Xolphin account for&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-48" target="H05wWGtZs0aGEvXsyEpA-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-48" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Disable&amp;nbsp;&lt;span&gt;Opsgenie &lt;/span&gt;account for&amp;nbsp;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-50" target="H05wWGtZs0aGEvXsyEpA-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-50" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Disable &amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;in arxus.cloud&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-52" target="H05wWGtZs0aGEvXsyEpA-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-52" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Remove the mobile device from the endpoint manager in the arxus.cloud domain for &lt;/span&gt;&amp;nbsp;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-54" target="H05wWGtZs0aGEvXsyEpA-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-54" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;from Arxus Sharepoint&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-56" target="H05wWGtZs0aGEvXsyEpA-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-56" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;from Arxus Calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-60" target="H05wWGtZs0aGEvXsyEpA-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-60" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;from Billing Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-62" target="H05wWGtZs0aGEvXsyEpA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-62" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Revoke D365/Connective License of&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-64" target="H05wWGtZs0aGEvXsyEpA-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-64" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Update Staff list (EXIT) for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-66" target="H05wWGtZs0aGEvXsyEpA-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-66" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;from Slack&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="700" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-68" target="H05wWGtZs0aGEvXsyEpA-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-68" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;from WhatsApp&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-70" target="H05wWGtZs0aGEvXsyEpA-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-70" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Remove &amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;from all Crossware groups&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-72" target="H05wWGtZs0aGEvXsyEpA-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-72" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Remove CSP Partner Center access for&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-73" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Disable local accounts for all dev tools (for example: New Relic, OpenShift, Portainer, LinOTP, Jenkins, HashiCorp, Vault, etc.) for &lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="810" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
