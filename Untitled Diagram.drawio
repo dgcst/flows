@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T12:18:07.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="yM1dHSQ1IzaN-4Ukwki_" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:20:39.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="e6GdM3faGf_oLjLJPS3E" version="16.6.5" type="github">
   <diagram id="fsAFGS4oz3nlPsBt68Uk" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,12 +28,13 @@
         <mxCell id="GRFbI8-_6WbSpLQHYe25-25" value="&lt;span&gt;Laptop is required?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="75" width="89" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-113" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-26" target="GRFbI8-_6WbSpLQHYe25-29" edge="1">
+        <mxCell id="GRFbI8-_6WbSpLQHYe25-113" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="255" />
               <mxPoint x="230" y="255" />
             </Array>
+            <mxPoint x="242" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-115" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-26" target="GRFbI8-_6WbSpLQHYe25-49" edge="1">
@@ -42,27 +43,19 @@
         <mxCell id="GRFbI8-_6WbSpLQHYe25-26" value="&lt;span&gt;Employee type NOT &quot;Cronos Medeworker - Lange Termijn&quot; and NOT &quot;Cronos Medeworker - Korte Termijn&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="215" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-28" value="&lt;span&gt;Employee type IS &quot;Externe Medeworker - Contract Plus&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="242" y="205" width="180" height="50" as="geometry" />
+        <mxCell id="t3DnAIWewciy8LTK_AGN-57" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="GRFbI8-_6WbSpLQHYe25-28" target="GRFbI8-_6WbSpLQHYe25-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-107" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-29" target="GRFbI8-_6WbSpLQHYe25-41" edge="1">
+        <mxCell id="t3DnAIWewciy8LTK_AGN-58" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="GRFbI8-_6WbSpLQHYe25-28" target="GRFbI8-_6WbSpLQHYe25-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="255" />
-              <mxPoint x="460" y="195" />
+              <mxPoint x="490" y="269" />
+              <mxPoint x="490" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-111" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-29" target="GRFbI8-_6WbSpLQHYe25-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="255" />
-              <mxPoint x="440" y="93" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-29" value="&lt;span&gt;Employee type IS &quot;Freelancer&quot;&lt;br&gt;or &quot;Stagiar&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="242" y="255" width="180" height="50" as="geometry" />
+        <mxCell id="GRFbI8-_6WbSpLQHYe25-28" value="&lt;span&gt;Employee type IS &quot;Externe Medeworker - Contract Plus&quot;&lt;br&gt;or&lt;br&gt;&lt;/span&gt;Employee type IS &quot;Freelancer&quot;&lt;br&gt;or &quot;Stagiar&quot;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="242" y="205" width="180" height="85" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-32" target="GRFbI8-_6WbSpLQHYe25-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
