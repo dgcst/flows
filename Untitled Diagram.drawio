@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:58:44.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="-Fi7Gf_mWCNjtQJ0LB_h" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:09:13.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="X7fFymXxZI7QTx5QnTvJ" version="16.6.5" type="github">
   <diagram id="fsAFGS4oz3nlPsBt68Uk" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -541,10 +541,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t3DnAIWewciy8LTK_AGN-10" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Register the laptop&lt;/span&gt;&lt;span&gt; (personal device) of &lt;/span&gt;&amp;lt;user&amp;gt; in Intune" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="2265" width="160" height="56" as="geometry" />
+          <mxGeometry x="240" y="2265" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-17" target="t3DnAIWewciy8LTK_AGN-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t3DnAIWewciy8LTK_AGN-17" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Provide ISO documentation to&lt;/span&gt;&amp;nbsp;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="2370" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-24" target="t3DnAIWewciy8LTK_AGN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-24" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Add&lt;/span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&amp;nbsp;&lt;span&gt;to the Cloud Champion Platform&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-26" target="t3DnAIWewciy8LTK_AGN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-35" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-26" target="t3DnAIWewciy8LTK_AGN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-26" value="&lt;span&gt;Employee type NOT &quot;Cronos Medeworker - Korte Termijn&quot; and NOT&lt;/span&gt;&amp;nbsp;&quot;Cronos Medeworker - Lange Termijn&quot;&amp;nbsp;&lt;span&gt;and NOT &quot;Externe Medeworker - Contractor Plus&quot;&amp;nbsp;&lt;/span&gt;and NOT &quot;internal Altogee&quot; and NOT &quot;internal Cloudfuel&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2350" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-29" target="t3DnAIWewciy8LTK_AGN-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="2503" />
+              <mxPoint x="417" y="2503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-29" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Create a Cronos All Sites badge for &amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-32" target="t3DnAIWewciy8LTK_AGN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-32" value="Send email to the new employee&#39;s manager to organize a welcome meeting&lt;br&gt;(Subject:&amp;nbsp;&lt;i&gt;New employee&amp;nbsp;&amp;lt;user&amp;gt; will join Arxus on &amp;lt;start date&amp;gt;&lt;/i&gt;)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="2480" width="178" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-37" value="Send email to Rick de Greef to schedule a meeting to explain time tracking&lt;br&gt;(Subject:&amp;nbsp;&lt;i&gt;Schedule a meeting with&amp;nbsp;&amp;lt;user&amp;gt;&amp;nbsp;to explain time tracking procedure&lt;/i&gt;)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2520" width="178" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
