@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T12:54:14.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" version="16.6.5" etag="8ILrLtt2-X3B48a3i4DP" type="github"><diagram id="Z0VwywWxkh0-yVfvQIWY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T13:01:43.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="l6Wz8dnA63LeLmSxq1l2" version="16.6.5" type="github">
+  <diagram id="Z0VwywWxkh0-yVfvQIWY" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.175;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-1" target="H05wWGtZs0aGEvXsyEpA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-1" value="START" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="11" y="10" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-8" target="H05wWGtZs0aGEvXsyEpA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-8" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Check for outstanding payments (Gingerwal, Coca Cola, ...) for&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-10" target="H05wWGtZs0aGEvXsyEpA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-10" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Collect hardware from&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-12" target="H05wWGtZs0aGEvXsyEpA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-12" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Fill in the Exit procedure for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-14" target="H05wWGtZs0aGEvXsyEpA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-14" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Gather accounts for&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;using the account script and add the file as attachment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-21" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-17" target="H05wWGtZs0aGEvXsyEpA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-17" target="H05wWGtZs0aGEvXsyEpA-22">
+          <mxGeometry x="-0.6957" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="310" />
+              <mxPoint x="290" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-17" value="User has badges" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H05wWGtZs0aGEvXsyEpA-20" target="H05wWGtZs0aGEvXsyEpA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-20" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Collect badge from&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05wWGtZs0aGEvXsyEpA-22" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;[AUTOMATED] Deactivate badges in ServiceNow for&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;lt;user&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
