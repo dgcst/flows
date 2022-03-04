@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T12:09:13.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="X7fFymXxZI7QTx5QnTvJ" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T12:16:10.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="Q6WaYK3sellpTaqvSVeV" version="16.6.5" type="github">
   <diagram id="fsAFGS4oz3nlPsBt68Uk" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GRFbI8-_6WbSpLQHYe25-1" value="START" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="11" y="10" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -575,14 +575,50 @@
         <mxCell id="t3DnAIWewciy8LTK_AGN-29" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Create a Cronos All Sites badge for &amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="2420" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t3DnAIWewciy8LTK_AGN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-32" target="t3DnAIWewciy8LTK_AGN-37">
+        <mxCell id="t3DnAIWewciy8LTK_AGN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-32" target="t3DnAIWewciy8LTK_AGN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t3DnAIWewciy8LTK_AGN-32" value="Send email to the new employee&#39;s manager to organize a welcome meeting&lt;br&gt;(Subject:&amp;nbsp;&lt;i&gt;New employee&amp;nbsp;&amp;lt;user&amp;gt; will join Arxus on &amp;lt;start date&amp;gt;&lt;/i&gt;)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5" y="2480" width="178" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-37" target="t3DnAIWewciy8LTK_AGN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t3DnAIWewciy8LTK_AGN-37" value="Send email to Rick de Greef to schedule a meeting to explain time tracking&lt;br&gt;(Subject:&amp;nbsp;&lt;i&gt;Schedule a meeting with&amp;nbsp;&amp;lt;user&amp;gt;&amp;nbsp;to explain time tracking procedure&lt;/i&gt;)&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2520" width="178" height="90" as="geometry" />
+          <mxGeometry x="5" y="2610" width="178" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-44" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-40" target="t3DnAIWewciy8LTK_AGN-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-47" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-40" target="t3DnAIWewciy8LTK_AGN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-40" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; &lt;/span&gt;&lt;span&gt;or IS &quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2530" width="178" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-43" target="t3DnAIWewciy8LTK_AGN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-43" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Make sure that diplomas and certificates are in Cronos Central for&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2530" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-53" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-46" target="t3DnAIWewciy8LTK_AGN-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-55" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-46" target="t3DnAIWewciy8LTK_AGN-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-46" value="Order Mobile is true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2650" width="178" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-51" value="END" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="691" y="2750" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="t3DnAIWewciy8LTK_AGN-52" target="t3DnAIWewciy8LTK_AGN-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DnAIWewciy8LTK_AGN-52" value="&lt;span&gt;Submit &quot;Mobile Phone&quot; Catalog Request for user&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2700" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
