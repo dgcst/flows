@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:08:19.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="x2lA0RRHzbz9dOLLZVzq" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:26:24.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="aJFmqyo6Y03hnOJKE9L4" version="16.6.5" type="github">
   <diagram id="fsAFGS4oz3nlPsBt68Uk" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-25" value="&lt;span&gt;Laptop is required?&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1" y="75" width="89" height="85" as="geometry" />
+          <mxGeometry x="2" y="75" width="89" height="85" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-113" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-26" target="GRFbI8-_6WbSpLQHYe25-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-26" value="&lt;span&gt;Employee type NOT &quot;Cronos Medeworker - Lange Termijn&quot; and NOT &quot;Cronos Medeworker - Korte Termijn&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1" y="215" width="180" height="80" as="geometry" />
+          <mxGeometry x="2" y="215" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-28" value="&lt;span&gt;Employee type IS &quot;Externe Medeworker - Contract Plus&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="242" y="205" width="180" height="50" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="490" y="53" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-36" value="NOTES" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="685" y="2" width="140" height="150" as="geometry">
+          <mxGeometry x="682" y="4" width="140" height="150" as="geometry">
             <mxRectangle x="687" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -126,7 +126,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-66" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1" y="515" width="180" height="80" as="geometry" />
+          <mxGeometry x="2" y="515" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-95" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-70" target="GRFbI8-_6WbSpLQHYe25-80" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-80" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;Update staff list with &amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1" y="655" width="179" height="80" as="geometry" />
+          <mxGeometry x="2" y="655" width="179" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-94" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-81" target="GRFbI8-_6WbSpLQHYe25-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -169,7 +169,7 @@
         <mxCell id="GRFbI8-_6WbSpLQHYe25-123" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="GRFbI8-_6WbSpLQHYe25-84" target="GRFbI8-_6WbSpLQHYe25-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-84" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot; or IS &quot;Stagiar&quot; or IS &quot;interal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GRFbI8-_6WbSpLQHYe25-84" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot; or IS &quot;Stagiar&quot; or IS &quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="451" y="640" width="149" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GRFbI8-_6WbSpLQHYe25-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.636;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" parent="1" source="GRFbI8-_6WbSpLQHYe25-85" target="GRFbI8-_6WbSpLQHYe25-124" edge="1">
@@ -206,7 +206,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GRFbI8-_6WbSpLQHYe25-124" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot; or IS &quot;Stagiar&quot; or IS &quot;interal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GRFbI8-_6WbSpLQHYe25-124" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or IS &quot;&lt;/span&gt;Cronos Medeworker - Lange Termijn&lt;span&gt;&quot; or IS &quot;Stagiar&quot; or IS &quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3" y="801" width="178" height="99" as="geometry" />
         </mxCell>
         <mxCell id="s9xyFnBMHQ_bjVRWuZO3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.644;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="GRFbI8-_6WbSpLQHYe25-132" target="s9xyFnBMHQ_bjVRWuZO3-2">
@@ -215,8 +215,111 @@
         <mxCell id="GRFbI8-_6WbSpLQHYe25-132" value="Send email to Cronos SD&lt;br&gt;(Subject:&amp;nbsp;&lt;span&gt;&lt;i&gt;Nieuwe Arxus medewerker &amp;lt;user&amp;gt;&lt;/i&gt;&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="873" width="149" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-2" value="&lt;span&gt;Employee type NOT &quot;Cronos Medeworker - Lange Termijn&quot; and NOT &quot;Cronos Medeworker - Korte Termijn&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-2" target="s9xyFnBMHQ_bjVRWuZO3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-14" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-2" target="s9xyFnBMHQ_bjVRWuZO3-12">
+          <mxGeometry x="-0.2273" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-2" value="&lt;span&gt;Employee type IS &quot;Cronos Medeworker - Lange Termijn&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="953" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.644;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-8" target="s9xyFnBMHQ_bjVRWuZO3-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="1010" />
+              <mxPoint x="200" y="1010" />
+              <mxPoint x="200" y="1050" />
+              <mxPoint x="119" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-8" value="Send email to Cronos SD&lt;br&gt;(Subject:&amp;nbsp;&lt;span&gt;&lt;i&gt;Nieuwe Arxus medewerker &amp;lt;user&amp;gt;&lt;/i&gt;&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="873" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-17" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-12" target="s9xyFnBMHQ_bjVRWuZO3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-20" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-12" target="s9xyFnBMHQ_bjVRWuZO3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-12" value="Group IS &quot;Customer Ops &amp;amp; Success Tribe&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="1078" width="180" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.644;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-16" target="s9xyFnBMHQ_bjVRWuZO3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-16" value="Send email to Cronos SD&lt;br&gt;(Subject:&amp;nbsp;&lt;span&gt;&lt;i&gt;Nieuwe Arxus medewerker &amp;lt;user&amp;gt;&lt;/i&gt;&lt;/span&gt;)&lt;br&gt;first-contact@arxus.eu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1030" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-18" value="Send email to Cronos SD&lt;br&gt;(Subject:&amp;nbsp;&lt;span&gt;&lt;i&gt;Toevoegen Visio licentie voor&amp;nbsp;&amp;lt;user&amp;gt;&lt;/i&gt;&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="1030" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-25" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-19" target="s9xyFnBMHQ_bjVRWuZO3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-19" target="s9xyFnBMHQ_bjVRWuZO3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-19" value="If Visio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="1170" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.013;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-26" target="s9xyFnBMHQ_bjVRWuZO3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-26" target="s9xyFnBMHQ_bjVRWuZO3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-26" value="Group IS &quot;Sales &amp;amp; Marketing&quot; or IS &quot;Admin &amp;amp; Finance&quot; or IS &quot;Business Services (other)&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="1247" width="180" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-28" target="s9xyFnBMHQ_bjVRWuZO3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-28" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Request Dynamics &amp;lt;license&amp;gt; licentie for&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1210" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.652;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-31" target="s9xyFnBMHQ_bjVRWuZO3-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1320" />
+              <mxPoint x="120" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-31" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Assign Dynamics Security roles to&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1210" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-40" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-33" target="s9xyFnBMHQ_bjVRWuZO3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-42" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-33" target="s9xyFnBMHQ_bjVRWuZO3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-33" value="&lt;span&gt;Employee type IS &lt;/span&gt;&lt;span&gt;&quot;internal Altogee&quot; or IS &quot;internal Cloudfuel&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="1360" width="178" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.657;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-37" target="s9xyFnBMHQ_bjVRWuZO3-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="1440" />
+              <mxPoint x="121" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-37" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Add&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt; to Crossware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1345" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-48" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="s9xyFnBMHQ_bjVRWuZO3-41" target="s9xyFnBMHQ_bjVRWuZO3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-41" value="&lt;span&gt;Employee type IS &quot;Internal&quot; or IS &quot;Freelancer&quot; or &lt;/span&gt;&lt;span&gt;IS &quot;Stagiar&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="1460" width="178" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s9xyFnBMHQ_bjVRWuZO3-43" value="&lt;b&gt;CATALOG TASK&lt;br&gt;&lt;/b&gt;&lt;span&gt;Send Slack invite to&amp;nbsp;&lt;/span&gt;&amp;lt;user&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1345" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
